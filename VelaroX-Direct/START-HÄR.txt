@@ -1,0 +1,10 @@
+VELARO X - DIREKT DEMO
+
+1. Öppna index.html i Chrome/Edge (dubbelklicka).
+2. Klicka + Ny restaurang.
+3. Lägg till skärmar.
+4. Ladda upp MP4 eller bilder.
+5. Välj en skärm och bygg spellistan.
+6. Klicka Förhandsvisa TV.
+
+OBS: Detta är en fristående lokal demo. Data och filer lagras bara i webbläsaren på samma dator. Länkar kan INTE delas till andra restaurangers TV-apparater. För riktiga delbara länkar, fjärrstyrning och inloggning behövs en driftsatt Cloudflare-backend med D1/R2.
